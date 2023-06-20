@@ -7,7 +7,7 @@ The CCTV will feed the data into the ML model which uses `CNN + LSTM` for detect
 ## Operating Procedure
 after successfully cloning the repo,<br />
 open command promt in the desired folder i.e. `VigilAI/healthcare/healthcare` <br />
-run `python manage.py runserver' <br />
+run `python manage.py runserver` <br />
 open python file `VigilAI_SourceCode_camButton` <br />
 provide the input of either recording or live camera.
 
