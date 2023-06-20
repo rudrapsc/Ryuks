@@ -6,7 +6,7 @@ This Project was designed to provide a solution for fullfilling the communicatio
 The CCTV will feed the data into the ML model which uses `CNN + LSTM` for detecting the crime and crime type which later send to police head quater for further proceedings.  
 ## Operating Procedure
 after successfully cloning the repo,<br />
-open command promt in the desired folder i.e. `VigilAI/healthcare/healthcare' <br />
+open command promt in the desired folder i.e. `VigilAI/healthcare/healthcare` <br />
 run `python manage.py runserver' <br />
 open python file `VigilAI_SourceCode_camButton` <br />
 provide the input of either recording or live camera.
